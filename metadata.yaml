@@ -1,1 +1,5 @@
 homepage: "https://signaly.io/"
+versions:
+  - sha: 3668e9e6b3a320821288a07233a238b67e937172
+    changeNotes: Initial release.
+ 
